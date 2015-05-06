@@ -3,8 +3,6 @@
 # for examples
 
 export JAVA_HOME=/usr/lib/jvm/java-1.7.0-openjdk-amd64
-export CATALINA_HOME=/home/vagrant/apache-tomcat-7.0.59
-
 
 # If not running interactively, don't do anything
 [ -z "$PS1" ] && return
